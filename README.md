@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td>
+
 ## 👋 About Me
 
 I'm a Computer Science student focused on building a strong foundation in Data Structures & Algorithms and backend development.
@@ -41,3 +45,7 @@ My code works perfectly… after a few “small” fixes 😅
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+</td>
+</tr>
+</table>

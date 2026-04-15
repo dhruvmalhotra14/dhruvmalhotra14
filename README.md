@@ -13,13 +13,31 @@ I enjoy solving problems, building small projects, and understanding how things 
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: Java, Python, C, C++  
-- 🌐 Web: HTML, JavaScript (basics)  
-- ☁️ Tools & Platforms: Git, GitHub, AWS, Anaconda  
-- 🧠 Concepts: OOPs, basic DSA  
-- 📊 Libraries/Other: Pandas  
-- 🎨 Design Tools: Canva, Adobe Photoshop  
-- ⚙️ Others: .NET (basics)  
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### ☁️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
+![Anaconda](https://img.shields.io/badge/Anaconda-green?style=for-the-badge&logo=anaconda)
+
+### 📊 Libraries / Other
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+
+### 🎨 Design Tools
+![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
+![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobe-photoshop)
+
+### ⚙️ Others
+![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet)
 
 ---
 
